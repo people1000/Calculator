@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Тригонометрия</string>
+    <string name="title">Синус, косинус, тангенс и котангенс</string>
+    <string name="result">результат</string>
+</resources>
